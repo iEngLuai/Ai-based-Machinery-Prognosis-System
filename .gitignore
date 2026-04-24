@@ -1,0 +1,18 @@
+MOTOR 2/
+MOTOR 4 - 70/
+Layer 3/Layer 3 Training data - XJTU/
+Layer 3/Layer 3 Testing data - XJTU/
+Layer 3/Layer 3 training Load 1/
+Layer 3/Layer 3 testing Load 1/
+features_dataset.csv
+__pycache__/
+*.pyc
+.DS_Store
+requirements_full.txt
+*.npy
+Layer 3 copy/
+.venv/
+*.npy
+*.so
+*.dylib
+*.h.inc
