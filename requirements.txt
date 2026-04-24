@@ -4,7 +4,6 @@ pandas
 joblib
 scikit-learn
 xgboost
-tensorflow-macos
-tensorflow-metal
+tensorflow
 shap
 scipy
