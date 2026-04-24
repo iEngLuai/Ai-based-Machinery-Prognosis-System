@@ -4,6 +4,6 @@ pandas
 joblib
 scikit-learn
 xgboost
-tensorflow
+tensorflow-cpu==2.17.0
 shap
 scipy
